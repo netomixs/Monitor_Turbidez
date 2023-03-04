@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Monitor Turbidez</string>
+    <string name="menor_a_20">Menor a 20%</string>
+    <string name="prsencia_de_particulas_baja">Presencia de particulas bajo</string>
+    <string name="entre_20_y_50">Entre 20 % y 50%</string>
+    <string name="presencia_alarmante_de_particulas">Presencia alarmante de particulas</string>
+    <string name="mayot_a_50">Mayor a 50%</string>
+    <string name="textview">TextView</string>
+    <string name="porcentaje">Porcentaje</string>
+    <string name="_00">00</string>
+    <string name="exceso_de_particulas">Exceso de particulas</string>
+    <string name="recoleccionDatos">Los datos mostrados son recolectados en tiempo real con un un sensor de turbidez de agua. El cual funciona con una luz infraroja. La luz es enviada y recibida; dependiendo el porcentaje de luz recibida se calcula la cantidad de particulas existentes que son diferentes a el agua cristalina. Esta aplicacion  muestra ese porcentaje de luz.</string>
+</resources>
